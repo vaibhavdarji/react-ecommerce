@@ -1,3 +1,5 @@
+# E-Commerce app using React JS, Commerce.js and Stripe
+### [Live Site](https://react-commerce-stripe-eshop.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
